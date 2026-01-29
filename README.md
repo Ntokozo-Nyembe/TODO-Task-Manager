@@ -1,4 +1,4 @@
-<img width="1198" height="768" alt="Screenshot 2026-01-29 at 08 56 42" src="https://github.com/user-attachments/assets/4ba9ddea-a014-4f30-96d3-2a827fd613be" /># 📝 Task Manager App
+# 📝 Task Manager App
 
 A simple and clean task manager built using HTML, CSS, and JavaScript.  
 This project demonstrates CRUD operations, state management, and local storage persistence.
